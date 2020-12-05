@@ -1,1 +1,1 @@
-# digirentAndrew
+# digirent-app
